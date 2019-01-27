@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">FirstAid</string>
 
-    <string name="page0">Safe to Approach?"</string>
+    <string name="page0">Safe to Approach buddy?"</string>
     <string name="page0_choice1">Yes</string>
     <string name="page0_choice2">No</string>
 
